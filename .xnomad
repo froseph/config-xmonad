@@ -2,19 +2,19 @@
     "Ratio": 0.7,
     "WindowsInMaster": 1,
     "Hotkeys": {
-        "Swap":          { "key": "s", "modifiers": [ "command", "control" ] },
-        "SelectPrev":    { "key": "k", "modifiers": [ "command", "control" ] },
-        "SelectNext":    { "key": "j", "modifiers": [ "command", "control" ] },
-        "SwapPrev":      { "key": "k", "modifiers": [ "option", "control", "command" ] },
-        "SwapNext":      { "key": "j", "modifiers": [ "option", "control", "command" ] },
-        "FocusDisplay1": { "key": "w", "modifiers": [ "command", "control" ] },
-        "FocusDisplay2": { "key": "e", "modifiers": [ "command", "control" ] },
-        "ToDisplay1":    { "key": "w", "modifiers": [ "option", "control", "command" ] },
-        "ToDisplay2":    { "key": "e", "modifiers": [ "option", "control", "command" ] },
-        "CycleLayouts":  { "key": " ", "modifiers": [ "command", "control" ] },
-        "IncreaseRatio": { "key": "l", "modifiers": [ "command", "control" ] },
-        "DecreaseRatio": { "key": "h", "modifiers": [ "command", "control" ] },
-        "MoreMasters":   { "key": ".", "modifiers": [ "command", "control" ] },
-        "FewerMasters":  { "key": ",", "modifiers": [ "command", "control" ] }
+        "Swap":          { "key": "s", "modifiers": [ "command", "shift" ] },
+        "SelectPrev":    { "key": "k", "modifiers": [ "command", "shift" ] },
+        "SelectNext":    { "key": "j", "modifiers": [ "command", "shift" ] },
+        "SwapPrev":      { "key": "k", "modifiers": [ "option", "shift", "command" ] },
+        "SwapNext":      { "key": "j", "modifiers": [ "option", "shift", "command" ] },
+        "FocusDisplay1": { "key": "w", "modifiers": [ "command", "shift" ] },
+        "FocusDisplay2": { "key": "e", "modifiers": [ "command", "shift" ] },
+        "ToDisplay1":    { "key": "w", "modifiers": [ "option", "shift", "command" ] },
+        "ToDisplay2":    { "key": "e", "modifiers": [ "option", "shift", "command" ] },
+        "CycleLayouts":  { "key": " ", "modifiers": [ "command", "shift" ] },
+        "IncreaseRatio": { "key": "l", "modifiers": [ "command", "shift" ] },
+        "DecreaseRatio": { "key": "h", "modifiers": [ "command", "shift" ] },
+        "MoreMasters":   { "key": ".", "modifiers": [ "command", "shift" ] },
+        "FewerMasters":  { "key": ",", "modifiers": [ "command", "shift" ] }
     }
 }
